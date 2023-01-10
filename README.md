@@ -1,4 +1,5 @@
-# geodata / spider process
+# Using the Google Places API with a Database and Visualizing Data on Google Map
+
 ## 1. add names to where file
   1. open the where.data file
   2. add location/city/places... name on the list
